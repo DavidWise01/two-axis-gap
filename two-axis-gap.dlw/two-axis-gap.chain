@@ -4,6 +4,6 @@ slug  : two-axis-gap
 seal  : be0db8aff8c241dd9d5803c94bed649ea8a39b0a375b08a6a82484543a2540be
 prev  : 73cae0df83287dea2f51aec4687a8ab820a204b00ac58f026e17cf8e23afd13d
 link  : fc5e827553e7896a48a1820924e238e0071430b59dbb67f227dba6331eb28c2c
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
